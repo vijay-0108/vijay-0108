@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vijay Simha Reddy Mukka  
 
-<!--
-**vijay-0108/vijay-0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I am a **Master’s student** at **University of Central Missouri**, pursuing a degree in **Computer Science**. I am passionate about **data analytics, business intelligence, and data engineering**.  
 
-Here are some ideas to get you started:
+## 💡 What I Do  
+- 🔍 Love working with **data** to uncover insights and drive decision-making.  
+- 📊 Experienced in **SQL, Python, Power BI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills & Expertise  
+- **SQL** – Querying, analyzing, and transforming data.  
+- **Data Reporting & Analysis** – Generating reports and conducting ad-hoc analyses.  
+- **Dashboard Development** – Building interactive dashboards in **Power Bi**.  
+- **Spreadsheet Analytics** – Performing data analysis using **SQL**.  
+
+## 🌱 Currently Learning  
+- Advanced **SQL optimizations & ETL workflows**  
+- Cloud technologies like **Azure & AWS**  
+- Machine learning applications in **data analytics**  
+
+## 🎯 Career Interests  
+I am actively looking for **Data Analyst, Business Analyst, or Data Engineer** roles where I can apply my analytical skills and technical expertise.  
+
+## 📫 Let’s Connect!  
+- **GitHub**: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
+- **LinkedIn**: https://www.linkedin.com/in/vijaysimhareddy-mukka/ 
+- **Email**: mukkavijay0108@gmail.com  
+
+
