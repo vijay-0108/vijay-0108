@@ -22,7 +22,7 @@ I am a **Master’s student** at **University of Central Missouri**, pursuing a 
 I am actively looking for **Data Analyst, Business Analyst, or Data Engineer** roles where I can apply my analytical skills and technical expertise.  
 
 ## 📫 Let’s Connect!  
-- **GitHub**: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
+- **GitHub**: https://github.com/vijay-0108
 - **LinkedIn**: https://www.linkedin.com/in/vijaysimhareddy-mukka/ 
 - **Email**: mukkavijay0108@gmail.com  
 
